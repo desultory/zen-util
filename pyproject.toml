@@ -19,5 +19,5 @@ classifiers = [
 dependencies = ["zen_logging >= 1.0.0"]
 
 [project.urls]
-Homepage = "https://github.com/desultory/zen_util"
-Issues = "https://github.com/desultory/zen_util/issues"
+Homepage = "https://github.com/desultory/zen-util"
+Issues = "https://github.com/desultory/zen-util/issues"
